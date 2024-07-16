@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Choise-Hand/RealTime-Gesture-Recognition-using-Mediapipe"
+    ]
+}
